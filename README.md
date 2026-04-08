@@ -4,7 +4,7 @@ Jogo de **Pedra, Papel e Tesoura** contra a máquina, com placar em tempo real e
 
 ---
 
-## 📸 Demonstração
+## 🚀 Demonstração
 
 Link do projeto: https://eduardoadf-dev.github.io/JokenPo/
 
