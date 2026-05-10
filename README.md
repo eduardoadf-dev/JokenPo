@@ -1,6 +1,6 @@
 # ✊✋✌️ JokenPô
 
-Jogo de **Pedra, Papel e Tesoura** contra a máquina, com placar em tempo real e interface responsiva.
+O clássico jogo de **Pedra, Papel e Tesoura** contra a máquina, com placar em tempo real e interface responsiva.
 
 ---
 
